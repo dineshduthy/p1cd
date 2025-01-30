@@ -24,7 +24,7 @@
 
 <div class="container">
     <h1>Welcome to My PHP Page</h1>
-    <h1>Welcome to My d PHP Page</h1>
+    <h1>Welcome to My dinesh PHP Page</h1>
     
     <?php
         $message = "Hello, this is a simple PHP template!";
